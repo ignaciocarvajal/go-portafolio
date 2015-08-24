@@ -1,2 +1,4 @@
 # go-portafolio
-Portafolio profesional
+Portafolio profesional.
+
+implementado con goji microframework for Golang
